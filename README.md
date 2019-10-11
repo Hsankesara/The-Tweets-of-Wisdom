@@ -14,7 +14,7 @@ I would like to thanks Stack Overflow which helped me at literally every stage o
 
 ### Inspiration
 
-I downloaded this dataset for many reasons. The most important one is that I want to know how similar these tweets are. Also, I like to know what makes some tweets viral and what factors affect a viral tweet. I explore these and many more questions in my notebook which you can find in the repository itself.
+I downloaded this dataset for many reasons. The most important one is that I want to know how similar these tweets are. Also, I like to know what makes some tweets viral and what factors affect a viral tweet. I explore these and many more questions in my notebook which you can find in the repository itself. You can 
 
 ### Contact Me
 
