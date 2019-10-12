@@ -2,7 +2,7 @@
 
 ### Context
 
-In the last few years, Twitter became one of the most popular social media platforms. From celebrity status to government policies, Twitter can accommodate a diverse range of people and thoughts. In these diverse set of thoughts, there are many Twitter accounts who tweet "wise" thoughts often. These "wise" thoughts are often related to improving one's life and how to excel at what you're doing. So I went down to the rabbit-hole to search these sorts of tweets. I find many common themes between them. Therefore, I decided to scrap the tweets so that you can explore the words of so-called "self-help" tweets and understand them much better.
+In the last few years, Twitter became one of the most popular social media platforms. From celebrity status to government policies, Twitter can accommodate a diverse range of people and thoughts. In these diverse set of thoughts, there are many Twitter accounts who tweet "self-help" thoughts often. These "self-help" thoughts are often related to improving one's life and how to excel at what you're doing. So I went down to the rabbit-hole to search these sorts of tweets. I find many common themes between them. Therefore, I decided to scrap the tweets so that you can explore the words of so-called "self-help" tweets and understand them much better.
 
 ### Content
 
@@ -14,7 +14,7 @@ I would like to thanks Stack Overflow which helped me at literally every stage o
 
 ### Inspiration
 
-I downloaded this dataset for many reasons. The most important one is that I want to know how similar these tweets are. Also, I like to know what makes some tweets viral and what factors affect a viral tweet. I explore these and many more questions in my notebook which you can find in the repository itself. You can 
+I downloaded this dataset for many reasons. The most important one is that I want to know how similar these tweets are. Also, I like to know what makes some tweets viral and what factors affect a viral tweet. I explore these and many more questions in my notebook which you can find in the repository or find it [here](https://www.kaggle.com/hsankesara/a-comprehensive-study-of-wisdom) on Kaggle.
 
 ### Contact Me
 
